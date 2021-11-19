@@ -18,11 +18,11 @@
   },
   "homepage": "https://github.com/nrutman/discussion-topics-api#readme",
   "devDependencies": {
-    "@types/express": "^4.17.13",
-    "@types/node": "^16.11.9",
     "nodemon": "^2.0.15"
   },
   "dependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^16.11.9",
     "axios-cache-adapter": "^2.7.3",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
